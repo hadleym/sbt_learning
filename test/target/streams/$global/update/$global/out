@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for test#default_2.12;0.1-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies test#default_2.12;0.1-SNAPSHOT->org.scala-lang#scala-library;2.12.3 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.12.3 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@745d2bce[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52e3dabd[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.3[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.12.3[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.12.3 in sbt-chain[0m
@@ -39,7 +39,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.0!scala-reflect.pom(pom.original) (159ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.0!scala-reflect.pom(pom.original) (216ms)[0m
 [0m[[0mdebug[0m] [0m		tried /home/hadleym/.ivy2/local/org.scala-lang/scala-reflect/2.12.0/jars/scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.12.0 in public[0m
@@ -388,12 +388,7 @@
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.3!scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.1!scalactic_2.12.jar(bundle)[0m
-[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar[0m
-[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar ...[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.0!scala-reflect.jar (493ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.0!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.1!scalatest_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(bundle)[0m
@@ -401,7 +396,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.3!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.4!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 763ms :: artifacts dl 506ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 914ms :: artifacts dl 9ms[0m
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT compile produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT runtime produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT test produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-test.xml[0m
@@ -415,5 +410,5 @@
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT docs produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT pom produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for test#default_2.12;0.1-SNAPSHOT scala-tool produced in /home/hadleym/stash/sbt_learning/test/target/resolution-cache/reports/test-default_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (763ms resolve - 506ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (914ms resolve - 9ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

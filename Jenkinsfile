@@ -3,5 +3,8 @@ node {
     stage 'checkout'
 
     stage 'test'
-      sh '/home/evteam/bin/sbt'
+    sh 'cd test'
+    sh '/home/evteam/bin/sbt'
+     
+        
     }

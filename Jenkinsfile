@@ -3,5 +3,5 @@ node {
     stage 'checkout'
 
     stage 'test'
-      sh 'sbt'
+      sh '/home/evteam/bin/sbt'
     }

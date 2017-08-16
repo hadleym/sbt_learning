@@ -1,10 +1,10 @@
 
 node {
-    stage 'checkout' {
+    stage ('checkout') {
         checkout scm
     }
 
-    stage 'test' {
+    stage ('test') {
         sh './test-script.sh'
     }
 

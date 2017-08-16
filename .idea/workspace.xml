@@ -2,172 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa959d74-0210-4c38-a670-1750eaeaf8c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-script.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$19ddd91f79b3e9db6c5a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$19ddd91f79b3e9db6c5a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$19ddd91f79b3e9db6c5a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$19ddd91f79b3e9db6c5a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1b0d8a910c7c7688945f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1b0d8a910c7c7688945f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1b0d8a910c7c7688945f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1b0d8a910c7c7688945f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1ed536835390d9c3e240$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1ed536835390d9c3e240$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1ed536835390d9c3e240.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$1ed536835390d9c3e240.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$8890da2400accc416f9c$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$8890da2400accc416f9c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$8890da2400accc416f9c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$8890da2400accc416f9c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ae78d1b3d0b3b499b60d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ae78d1b3d0b3b499b60d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ae78d1b3d0b3b499b60d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ae78d1b3d0b3b499b60d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$b24dca88ecb2b26c7909$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$b24dca88ecb2b26c7909$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$b24dca88ecb2b26c7909.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$b24dca88ecb2b26c7909.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$cd93937dc07bf2919f12$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$cd93937dc07bf2919f12$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$cd93937dc07bf2919f12.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$cd93937dc07bf2919f12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ceff9c0955f22342a1e4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ceff9c0955f22342a1e4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ceff9c0955f22342a1e4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$ceff9c0955f22342a1e4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$d82b2dcffecc5cb9a836$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$d82b2dcffecc5cb9a836$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$d82b2dcffecc5cb9a836.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$d82b2dcffecc5cb9a836.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$e48b686d0a7402ef4559$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$e48b686d0a7402ef4559$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$e48b686d0a7402ef4559.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/project/target/config-classes/$e48b686d0a7402ef4559.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/com/.hw.scala.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/com/hw.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/$global/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/ivySbt/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/update/$global/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/$global/update/$global/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/compile/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/copyResources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/runtime/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/compile/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/copyResources/$global/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/copyResources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/definedTests/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/dependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/fullClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/internalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/loadedTestFrameworks/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/test/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/main/scala/target/streams/test/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/test/scala/.test1.scala.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/src/test/scala/test1.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/.history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/reports/test-default_2.12-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/test/default_2.12/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/resolution-cache/test/default_2.12/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/scala-2.12/classes/HW$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/scala-2.12/classes/HW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/scala-2.12/test-classes/Test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/$global/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/ivySbt/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/update/$global/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/$global/update/$global/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/compile/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/copyResources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/incCompileSetup/$global/inc_compile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/runtime/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/compile/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/copyResources/$global/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/copyResources/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/definedTests/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/dependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/exportedProducts/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/fullClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/incCompileSetup/$global/inc_compile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/internalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/loadedTestFrameworks/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/test/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/test/$global/succeeded_tests" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/test/isModule=false name=Test1/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/target/streams/test/unmanagedJars/$global/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jenkinsfile" afterPath="$PROJECT_DIR$/Jenkinsfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/out" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/bar/target/" />
@@ -192,17 +27,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-script.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test-script.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-script.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -225,15 +60,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/test-script.sh" />
+        <option value="$PROJECT_DIR$/Jenkinsfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3969" />
-    <option name="y" value="13" />
-    <option name="width" value="3712" />
+    <option name="x" value="1073" />
+    <option name="y" value="134" />
+    <option name="width" value="3842" />
     <option name="height" value="2148" />
   </component>
   <component name="ProjectView">
@@ -426,7 +261,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3969" y="13" width="3712" height="2148" extended-state="6" />
+    <frame x="0" y="-8" width="3840" height="2168" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -442,7 +277,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26200995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25293177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -483,18 +318,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-script.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
